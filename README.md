@@ -1,7 +1,7 @@
 Reading notes for CodeFellows
 
 ## Github Portfolio
-# https://github.com/gerstej9
+### https://github.com/gerstej9
 
 # Growth Mindset
 
@@ -9,7 +9,7 @@ Reading notes for CodeFellows
 
 # *I will remember to utilize a growth mindset by:*
 
-## - Perservering when I run into obstacles.
+## - **Perservering when I run into obstacles.**
 ## - Utilizing tools such as google to continue to learn.
 ## - Ask for help when needed.
 
