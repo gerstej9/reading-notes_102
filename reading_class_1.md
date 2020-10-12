@@ -34,6 +34,18 @@
     * ```.``` refers to current directory
     * ```~``` refers to home directory 
     
+ ## Files
+  * Everything is a file
+  * File extensions denote what type of a file something is i.e. .jpg
+  * The ```file``` command will show what type of a file a certain file is
+  * Linux is case sensitive
+  * Linux does not like spaces
+  * Quotes denote one entire item
+  * A ```\``` nullifies the next character
+  * Files can be hidden, use ```ls -a``` to show all files including hidden ones.
+  
+  
+  
     
  
     
