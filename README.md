@@ -9,7 +9,7 @@ Reading notes for CodeFellows
 
 # _I will remember to utilize a growth mindset by:_
 
-## - *Perservering when I run into obstacles.*
+## - __Perservering when I run into obstacles.__
 ## - Utilizing tools such as google to continue to learn.
 ## - Ask for help when needed.
 
