@@ -6,6 +6,7 @@
 
 # **Table of Contents**
 * [Markdown](markdown.md)
+* [Reading Notes Class 1] (reading_notes_1.md)
 
 # Growth Mindset
 
