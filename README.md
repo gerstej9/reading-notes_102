@@ -4,8 +4,9 @@ Reading notes for CodeFellows
 ### https://github.com/gerstej9
 
 
-* Table of Contents
-[Markdown](markdown.md)
+# **Table of Contents**
+* [Markdown](markdown.md)
+
 # Growth Mindset
 
 ## Growth mindset is the ability to focus on learning and gathering knowledge. It is not based on "innate intelligence" but rather the ability to continually grow.
