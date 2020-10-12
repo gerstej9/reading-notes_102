@@ -1,15 +1,16 @@
 Reading notes for CodeFellows
 
-# Sizing by hashtags
+## Github Portfolio
+# 
+
+# Growth Mindset
+
+## Growth mindset is the ability to focus on learning and gathering knowledge. It is not based on "inate intelligence" but rather the ability to continually grow.
+
+# *I will remember to utilize a growth mindset by:
+
+## - Perservering when I run into obstacles.
+## - Utilizing tools such as google to continue to learn.
+## - Ask for help when needed.
 
 
-## Sizing
-
-
-### Headings by different #
-
-
-# H1
-
-
-## H2 all the way from 1-6
