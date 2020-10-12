@@ -15,3 +15,5 @@
  * [Links](https://gerstej9.github.io/reading-notes/)
   * ``` [Text](URL)```
   
+## And lastly, if you want to put code in a website so that others can use it like I have done above. You can do so by adding three tildas on either side of text like so.
+*``` how to make a code box ```hello``` ````
