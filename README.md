@@ -1,7 +1,4 @@
-Reading notes for CodeFellows
-
-
-Hello my name is James Gerstenberger, I am an aspiring computer programmer.
+### Hello my name is James Gerstenberger, I am an aspiring computer programmer.
 
 ## Github Portfolio
 ### [https://github.com/gerstej9](https://github.com/gerstej9)
@@ -16,8 +13,8 @@ Hello my name is James Gerstenberger, I am an aspiring computer programmer.
 
 # *I will remember to utilize a growth mindset by:*
 
-## - __Perservering when I run into obstacles.__
-## - Utilizing tools such as google to continue to learn.
-## - ***Ask for help when needed.***
+## 1. __Perservering when I run into obstacles.__
+## 2. Utilizing tools such as google to continue to learn.
+## 3. ***Ask for help when needed.***
 
 
