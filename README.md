@@ -1,15 +1,15 @@
 Reading notes for CodeFellows
 
-#Sizing by hashtags
+# Sizing by hashtags
 
 
-##Sizing
+## Sizing
 
 
-###Headings by different #
+### Headings by different #
 
 
-#H1
+# H1
 
 
-##H2 all the way from 1-6
+## H2 all the way from 1-6
