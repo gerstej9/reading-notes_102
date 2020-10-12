@@ -5,5 +5,5 @@
   * ```*Italics*```
 * **Bold font**
   * ```**Bold Font**```
-* Or Both!
+* ***Or Both!***
   * ```***Bold and Italic***```
