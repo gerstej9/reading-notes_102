@@ -10,8 +10,8 @@
   
   
 ## In addition to the text styles that you can implement above. You can also add other functional aspects too such as;
- * >Hello World!
-  * ```<Quotes```
+ * > Hello World!
+  * ```> Quotes```
  * [Links](https://gerstej9.github.io/reading-notes/)
   * ``` [Text](URL)```
   
