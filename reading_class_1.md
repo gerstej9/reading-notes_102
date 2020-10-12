@@ -9,7 +9,7 @@
     * Third Party Apps 
     * Apps native to a Mac or windows
 
-## Comand Line
+## Command Line
   * Using the terminal is a different way to navigate your compute than the GUI
   * The terminal utilizes commands that allow you to use all the same functions as the GUI
   such as opening folders and creating or copying files.
@@ -23,7 +23,7 @@
     * List of files or folder ```ls```
   * For more complicated operations you have to download packages such as homebrew or nvm
   
-  ## Paths
+ ## Paths
   * There are two types of paths
     * Relative: A file or folder relative to current location in a file system
     * Absolute: A file or folder relative to root system.
@@ -34,7 +34,7 @@
     * ```.``` refers to current directory
     * ```~``` refers to home directory 
     
- ## Files
+## Files
   * Everything is a file
   * File extensions denote what type of a file something is i.e. .jpg
   * The ```file``` command will show what type of a file a certain file is
