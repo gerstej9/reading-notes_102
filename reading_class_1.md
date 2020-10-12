@@ -2,7 +2,7 @@
 
 ## Differences between text editors
 
-### Text editors can be broken in to two different categories:
+### Text editors can be broken into two different categories:
   * Word Processors
     * Microsoft Word etc.
   * Code-specific Text Editors
