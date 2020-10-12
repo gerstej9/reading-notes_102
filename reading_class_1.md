@@ -23,7 +23,7 @@
     * List of files or folder ```ls```
   * For more complicated operations you have to download packages such as homebrew or nvm
   
- ## Paths
+## Paths
   * There are two types of paths
     * Relative: A file or folder relative to current location in a file system
     * Absolute: A file or folder relative to root system.
