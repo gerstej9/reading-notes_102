@@ -1,5 +1,8 @@
 Reading notes for CodeFellows
 
+
+Hello my name is James Gerstenberger, I am an aspiring computer programmer.
+
 ## Github Portfolio
 ### https://github.com/gerstej9
 
