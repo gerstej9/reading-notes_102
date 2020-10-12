@@ -7,7 +7,7 @@ Reading notes for CodeFellows
 
 ## Growth mindset is the ability to focus on learning and gathering knowledge. It is not based on "inate intelligence" but rather the ability to continually grow.
 
-# *I will remember to utilize a growth mindset by:*
+# _I will remember to utilize a growth mindset by:_
 
 ## - *Perservering when I run into obstacles.*
 ## - Utilizing tools such as google to continue to learn.
