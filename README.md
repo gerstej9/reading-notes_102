@@ -13,7 +13,7 @@
 
 # *I will remember to utilize a growth mindset by:*
 
-## 1. __Perservering when I run into obstacles.__
+## 1. __Persevering when I run into obstacles.__
 ## 2. Utilizing tools such as google to continue to learn.
 ## 3. ***Ask for help when needed.***
 
