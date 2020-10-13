@@ -10,4 +10,5 @@
 * [Reading Notes Class 1](reading_class_1.md)
 * [Revisions and the Cloud](revisions_cloud.md)
 * [Git Practice](gitpractice.md)
+* [Reading Notes Class 2](reading_class_2.md)
 
