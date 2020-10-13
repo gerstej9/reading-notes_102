@@ -5,18 +5,7 @@
 
 
 # **Table of Contents**
+* [Growth Mindset](growthmindset.md)
 * [Markdown](markdown.md)
 * [Reading Notes Class 1](reading_class_1.md)
 * [Revisions and the Cloud](revisions_cloud.md)
-
-# Growth Mindset
-
-## Growth mindset is the ability to focus on learning and gathering knowledge. It is not based on "innate intelligence" but rather the ability to continually grow.
-
-# *I will remember to utilize a growth mindset by:*
-
-## 1. __Persevering when I run into obstacles.__
-## 2. Utilizing tools such as google to continue to learn.
-## 3. ***Ask for help when needed.***
-
-
