@@ -1,7 +1,7 @@
 # Class 2 Reading Notes
 
 ## Process Design
-###
+
 * Websites should be designed for target audience
     * Age range
     * Gender
