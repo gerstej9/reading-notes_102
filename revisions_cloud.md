@@ -22,10 +22,10 @@
     
 ## Git Functions
   * Importing
-      * ```cd test
-        ```git init
-        ```git add *.c
-        ```git add LICENSE
+      * ```cd test```
+        ```git init```
+        ```git add *.c```
+        ```git add LICENSE```
         ```git commit -m "any message"```
   * Cloning
     * ``` git clone https://gihub.com/test```
