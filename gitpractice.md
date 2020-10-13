@@ -5,9 +5,7 @@
 * Cloning repositories from Github
     * ```git clone "url"```
 * You are able to bypass the need for inputting a password on pushes if you enter your repository URL as follows
-<<<<<<< HEAD
     * ```git clone https://username@repository-url.com```
 * I have been learning how to create files in VS Code and then link them to my hompeage much like we were doing in Github but now I am doing it locally and pushing it using git to Github.
 =======
-    * ```git clone https://username@repository-url.com```
->>>>>>> 40bc2ac2a2b60e9033a4d8d93757c5b754aca584
+
