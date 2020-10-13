@@ -7,6 +7,7 @@
 # **Table of Contents**
 * [Markdown](markdown.md)
 * [Reading Notes Class 1](reading_class_1.md)
+* [Revisions and the Cloud](revisions_cloud.md)
 
 # Growth Mindset
 
