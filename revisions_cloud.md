@@ -43,7 +43,7 @@
     * To check status ```git status```
 
 ## A.C.P. Add, Commit, Push
-  * ```git add filename
+  * ```git add filename```
   * ```git commit -a```
   * ```git push origin main```
   
