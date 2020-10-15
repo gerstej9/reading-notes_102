@@ -1,6 +1,26 @@
 # Intro, Scripts, Expressions, Operators, and Functions
 
-## Intro and Scripts
+## Introduction
+* Javascript allows you to;
+    * Acess content within webpages
+    * To modify content
+    * Program rules
+    * React to events
+    * Some examples include slideshows, forms, reloading part of a page and filtering data
+* HTML and CSS Refresher
+* HTML elements consist of opening tag containing attribute name and attribute value and a closing tag
+    * ```<p class ="fruit">peach</p>```
+* CSS rules have a selector and declaration block which consists of property name and value
+    * ```.fruit{color:pink;}
+
+## Scripts
+* A script is a series of instructions such as a recipe or manual
+* To write a script you need to state your goal and list the tasks needed to complete it
+    * Define the goal
+    * Design the script
+    * Code each step
+* Code vocabulary and syntax are paramount for writing a script
+* Sketching out tasks in flowcharts fcan be helpful to see how tasks fit together
 
 ## Expressions and Operators
 * An expression evaluates into results in a single value
