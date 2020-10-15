@@ -59,7 +59,54 @@
 * Variables can store numbers, strings, or booleans
 * Strings are kept in quotations either single or double
 * To add quotes inside either use escape character such as backslash or use the opposite quote marks to surround the string i.e. single or double
-* 
+
+
+# Computer Architecture and Logic
+
+## How Computers Work
+* Computers help us with thinking work
+* Taking input, storing information, processing it and outputting it
+* Early computers were made out of metal and wood
+* Computers take data from memory, process it using algorithms, and then return it to storage
+* Computers output information through displays, signals, and other means
+
+## Binary and Data
+* Computers work on 1's and 0's
+* An electrical wire can be yes or no, 1 or 0 depending on if electricity is or isnt flowing (known as a bit)
+* Binary number system can represent any number
+* 32 wires can show up to billions of numbers
+* Text, images, and sound can also be represented by binary numbers
+
+## Circuits and Logic
+* Simple circuit takes a signal and flips it, Not circuit
+* Complicated circuits can take multiple signals and combine them into different results
+* Simple circuits can be added together to create more complicated processing, such as an adder
+* Circuits can be placed side by side to increase functionality
+* Smaller circuits allow for faster processing
+
+## CPU, Memory, Input, Output
+* Storage involves memory and CPU for processing
+* Computers can take many different types of input
+* Input is converted into binary numbers
+* CPU calculates how to display output and stores it in memory before outputting
+* The more complicated input and output are the greater need for larger memory and faster CPU/more CPUs
+
+## Hardware and Software
+* Hardware comprises physical aspects of computing
+* Software comprises intangible aspects such as programs
+* CPU is the master chip that controls all computer functions
+* CPU consists of different types of circuits for different functions
+* Operating systems are the master programs that allow for the control of other programs on the system
+* Operating system switches between running programs
+* Each software is comprised of binary code managed by operating system
+
+
+
+
+
+
+
+
 
 
 
