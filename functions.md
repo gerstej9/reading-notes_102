@@ -11,7 +11,7 @@
 * HTML elements consist of opening tag containing attribute name and attribute value and a closing tag
     * ```<p class ="fruit">peach</p>```
 * CSS rules have a selector and declaration block which consists of property name and value
-    * ```.fruit{color:pink;}
+    * ```.fruit{color:pink;}```
 
 ## Scripts
 * A script is a series of instructions such as a recipe or manual
