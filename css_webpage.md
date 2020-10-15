@@ -120,5 +120,5 @@
 * HSLA adds the opacity value "alpha"
     * `background-color: hsla(0, 0%, 78%, 0.5)`
 
-
+[Home](README.md)
 
