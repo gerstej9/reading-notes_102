@@ -82,7 +82,8 @@
     * Tags can be lighweight or annotated
     * Tags must be pushed to be shared
   * Aliases allows for easier navigation and can be set up using git config
-  
+
+[Home](README.md)
     
   
         

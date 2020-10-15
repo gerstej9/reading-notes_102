@@ -100,7 +100,7 @@
 * Operating system switches between running programs
 * Each software is comprised of binary code managed by operating system
 
-
+[Home](README.md)
 
 
 

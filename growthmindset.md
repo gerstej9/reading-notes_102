@@ -7,3 +7,5 @@
 ## 1. __Persevering when I run into obstacles.__
 ## 2. Utilizing tools such as google to continue to learn.
 ## 3. ***Ask for help when needed.***
+
+[Home](README.md)

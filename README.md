@@ -14,6 +14,7 @@
 * [Webpage Design with CSS](css_webpage.md)
 * [Reading Notes Class 3](reading_class_3.md)
 * [Intro, Scripts, Operators, and Functions](functions.md)
+* [Reading Notes Class 4](reading_class_4.md)
 
 
 
